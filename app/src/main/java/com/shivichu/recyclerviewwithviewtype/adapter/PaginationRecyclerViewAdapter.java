@@ -27,10 +27,6 @@ import java.util.List;
 
 import javax.sql.DataSource;
 
-/**
- * Created by Suleiman on 19/10/16.
- */
-
 public class PaginationRecyclerViewAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     private List<Model> movieResults;

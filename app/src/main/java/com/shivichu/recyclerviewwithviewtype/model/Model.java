@@ -1,9 +1,5 @@
 package com.shivichu.recyclerviewwithviewtype.model;
 
-
-/**
- * Created by anupamchugh on 09/02/16.
- */
 public class Model {
 
     public static final int TYPE_LOADING=0;
